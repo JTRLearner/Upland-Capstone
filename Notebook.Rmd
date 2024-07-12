@@ -217,7 +217,7 @@ print(value_by_neighborhood)
 It shouldn't come as a surprise to anyone in the Upland community that London is found to be the most expensive city, while Bakersfield and Fresno are considered the cheapest. London is new and it was designed to be more exclusive, whereas Bakersfield and Fresno were designed to be more affordable for newer and younger players. 
 Bakersfield and Fresno, our least expensive cities, differ a lot in the Value.UP2 column. But according to Bestplaces.net, the difference in actual home values is not that great. 
 ![Bakersfield and Fresno compared](bestplace.png)
-Our list also shows Staten Island ranking below Cleveland, but the real-life statistics differ a lot. We will discuss these contradictions in greater detail later on. 
+Our list also shows Staten Island ranking below Cleveland, but the real-life statistics differ a lot. This is because Upland made some adjustments to fit their own metaverse. 
 ![Staten Island and Cleveland compared](bestplace2.png)
 
 ## Question 2: Which properties have not been profitable purchases?
