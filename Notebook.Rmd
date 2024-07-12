@@ -307,7 +307,7 @@ These results reflect the standardization of the price scheme in Upland. In citi
 
 Congratulations! We've tackled all of our analytical questions. Next, it is time to share the results with our stakeholders. 
 
-#Step Five: Share
+# Step Five: Share
 
 This is the part where we state the results and create visualizations. In our first data question, we decided to determine broadly which areas were the highest in land value. This is an objective measurement and the results were not surprising to us. 
 
